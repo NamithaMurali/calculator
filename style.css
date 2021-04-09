@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(purple, plum);
+  background-attachment: fixed;
+}
+h1 {
+  color: white;
+}
+.alpha {
+  background-color: plum;
+  margin: 5px;
+  font-weight: bolder;
+  font-size: x-large;
+}
+p {
+  font-weight: bolder;
+  font-size: larger;
+}
+#statement,
+#result {
+  font-weight: bolder;
+  font-size: larger;
+}
